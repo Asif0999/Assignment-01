@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+section{
+    display: flex;
+    font-weight: 700;
+    
+}
+.width{
+    width: 50%;
+}
+.width img{
+    width: 70%;
+}
+.box{
+    
+   margin: 10px 14px;
+    padding: 2% 2%;
+    border-radius: 8%;
+    background-color: rgb(230, 216, 190);
+    
+}
+.box-01{
+     
+    margin: 10px 14px;
+    padding: 2% 2%;
+    border-radius: 8%;
+    background-color: rgb(94, 131, 167);
+}
+.box-02{
+     
+    margin: 10px 14px;
+    padding: 2% 2%;
+    border-radius: 8%;
+    background-color: rgb(170, 96, 103);
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 99, 99),rgb(231, 158, 74));
+    color: whitesmoke;
+    padding: 10px 15px;
+    border-radius: 10px;
+    font-weight: 700;
+
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 60px;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+    font-weight: 900;
+}
+h5{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.color{
+    color: orange;
+}
+.border{
+    border-left: 4px solid red;
+    border-width: 3px;
+  
+}
+
+.margin{
+    margin: 8% 5%;
+}
+.margin-00{
+    margin: 8% 5%;
+}
+.margin-02{
+    margin-left: 2%;
+}
+.size{
+    font-size: 50px;
+    font-weight: 900;
+}
+.margin-0123{
+    margin-left: 100px;
+}
+.margin-01234{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.picture{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left center;
+}
+.pic-add{
+    background-image: url(shape-1.png);
+    background-position: right bottom ;
+    background-repeat: no-repeat;
+    background-size: 15%;
+    
+}
+.last-part{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    
+    
+}
+#ghgh{
+    font-size: 30px;
+}
